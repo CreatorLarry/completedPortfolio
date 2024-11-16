@@ -112,10 +112,6 @@ body {
         }
     }
 
-    @media (min-width: 627px) {
-
-    }
-
 
     .text-brand {
         color: var(--color-brand);
