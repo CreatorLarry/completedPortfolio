@@ -13,7 +13,6 @@
 }
 
 
-
 body {
     background-color: var(--color-base2);
     color: var(--color-body);
@@ -240,7 +239,7 @@ body {
 
 /*END CONTENT WRAPPER*/
 
-html{
+html {
     padding: 0;
     margin: 0;
     overflow-x: hidden;
