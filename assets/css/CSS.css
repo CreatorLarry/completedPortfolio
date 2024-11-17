@@ -78,9 +78,9 @@ body {
         font-family: "Bai Jamjuree", sans-serif;
     }
 
-    .navbar .nav-link.active {
-        color: var(--color-brand);
-    }
+    /*.navbar .nav-link.active {*/
+    /*    color: var(--color-brand);*/
+    /*}*/
 
     .style1 {
         font-family: "zeyada", sans-serif;
