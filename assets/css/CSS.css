@@ -17,7 +17,7 @@ body {
     background-color: var(--color-base2);
     color: var(--color-body);
     font-family: 'Bai Jamjuree', monospace;
-    overflow-x: scroll;
+    overflow-x: hidden;
 
 
     h1, h2, h3, h4, h5, h6 {
@@ -108,6 +108,10 @@ body {
         #content-wrapper {
             padding-left: var(--sidbar-width);
 
+        }
+
+        .shadow-effect:hover {
+            box-shadow: none;
         }
     }
 
@@ -244,3 +248,5 @@ html {
     margin: 0;
     overflow-x: hidden;
 }
+
+
